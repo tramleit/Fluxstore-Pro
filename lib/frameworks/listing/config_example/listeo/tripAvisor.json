@@ -1,0 +1,137 @@
+{
+  "Background": {
+    "scroll": true,
+    "height": 0.4,
+    "image": "https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x931/542ebcc3cc043f9f4a444316b00a778b/travel10.jpg"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "center": true,
+      "fontSize": 23.0,
+      "height": 300,
+      "title": "Welcome to FluxListing!",
+      "type": "static"
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "size": 1.0,
+      "padding": 10.0,
+      "columns": 3,
+      "line": true,
+      "backgroundColor": true,
+      "items": [
+        {
+          "category": 29,
+          "image": "assets/icons/categories/ic_home.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ]
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/categories/ic_picture.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ]
+        },
+        {
+          "category": 34,
+          "image": "assets/icons/categories/ic_broom.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ]
+        },
+        {
+          "category": 37,
+          "image": "assets/icons/categories/ic_couch.png",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ]
+        },
+        {
+          "category": 35,
+          "image": "assets/icons/categories/ic_flower.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "category": 33,
+          "image": "assets/icons/categories/ic_ballon.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "bannerMap",
+      "title": "What can we help you find?",
+      "height": 150.0,
+      "paddingHoz": 15.0,
+      "paddingVer": 20.0,
+      "zoom": 14.0,
+      "radius": 15.0
+    },
+    {
+      "name": "Most Visited Places",
+      "layout": "threeColumn",
+      "category": 29
+    },
+    {
+      "name": "Eat and Drink",
+      "layout": "threeColumn",
+      "category": 19
+    },
+    {
+      "name": "Services",
+      "layout": "threeColumn",
+      "category": 33
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

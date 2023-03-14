@@ -1,0 +1,119 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "header_search",
+      "radius": 3.0,
+      "text": "Search for a product"
+    },
+
+    {
+      "layout": "header_text",
+      "fontSize": 20.0,
+      "padding": 20.0,
+      "height": 0.1,
+      "title": "What can we help you find?"
+    },
+
+    {
+      "layout": "category",
+      "type": "image",
+      "size": 1.0,
+      "radius": 50.0,
+      "wrap": false,
+      "items": [
+        {
+          "category": 28,
+          "showText": true,
+          "name": "Apartment",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        },
+        {
+          "category": 29,
+          "showText": true,
+          "name": "Art and History",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        },
+        {
+          "category": 53,
+          "showText": true,
+          "name": "House",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        },
+        {
+          "category": 65,
+          "showText": true,
+          "name": "Outdoor Activities",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        },
+        {
+          "category": 73,
+          "showText": true,
+          "name": "Restaurants",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        },
+        {
+          "category": 77,
+          "showText": true,
+          "name": "Room",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Most Visited Places",
+      "layout": "twoColumn",
+      "category": 77
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

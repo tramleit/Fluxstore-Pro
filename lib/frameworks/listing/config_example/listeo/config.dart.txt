@@ -1,0 +1,12 @@
+
+const serverConfig = {
+    'type': 'listeo',
+    'url': 'https://listeo.fluxstore.app',
+    'blog': 'https://listeo.fluxstore.app',
+    'consumerKey': 'ck_58c3f8cac9c5cd7e15b2bd334824de69fc0f802f',
+    'consumerSecret': 'cs_c2d4411dfd71a94075158684abd6b903e0a0a1da',
+
+    /// remove to use as native screen
+   'addListingUrl':'https://listeo.inspireui.com/add-listing'
+
+};

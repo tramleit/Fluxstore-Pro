@@ -1,0 +1,167 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "isSafeArea":false,
+      "showSearch":true,
+      "usePrimaryColor":true,
+      "borderInput":false,
+      "title":"What can we help you find?",
+      "alignment":"centerLeft",
+      "fontWeight":0,
+      "radius":30,
+      "fontSize":15.0,
+      "textOpacity":0.8,
+      "marginLeft":18.0,
+      "marginRight":18.0,
+      "marginBottom":5.0,
+      "marginTop":5.0,
+      "paddingLeft":5.0,
+      "paddingRight":15.0,
+      "paddingTop":0.0,
+      "paddingBottom":0.0,
+      "height":45.0,
+      "rotate":[],
+      "layout":"header_search"
+    },
+    {
+      "layout":"category",
+      "type":"image",
+      "wrap":false,
+      "showShortDescription":true,
+      "paddingTop": 4.0,
+      "size":1.0,
+      "radius": 2.0,
+      "items":[
+        {
+          "category":"19",
+          "showText":true,
+          "name":"Apartments",
+          "image":"https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/f91acac11d3f590f45bf56e1e6d570e7/travel10.jpg"
+        },
+        {
+          "category":"19",
+          "showText":true,
+          "name":"Fitness",
+          "image":"https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x800/d75e43203335e45a506184f22f5148d6/travel13.jpg"
+        },
+        {
+          "category":"19",
+          "showText":true,
+          "name":"Events",
+          "image":"https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x811/f7c40224ad67d091a3d3c1dfcd99dcd7/travel27.jpg"
+        },
+        {
+          "category":"19",
+          "showText":true,
+          "name":"Eat & Drink",
+          "image":"https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x800/16db1a2dbbc2768b1379837ea4b227a4/travel30.jpg"
+        },
+        {
+          "category":"19",
+          "showText":true,
+          "name":"Services",
+          "image":"https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x800/94c2fd4e42c704c15560241da9c47b00/travel39.jpg"
+        },
+        {
+          "category":"19",
+          "showText":true,
+          "name":"Other",
+          "image":"https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x798/1e4028e9986d1333a756e7c90303dcce/travel53.jpg"
+        }
+      ],
+      "line":false,
+      "marginLeft":10.0,
+      "marginRight":10.0,
+      "marginTop":10.0,
+      "marginBottom":10.0,
+      "pos":300,
+      "paddingX":0.0,
+      "paddingY":6.0,
+      "marginX":2.0,
+      "marginY":2.0,
+      "hideTitle":false,
+      "noBackground":false,
+      "itemSize":{
+        "width":320.0,
+        "height":157.0}
+    },
+    {
+      "name": "Coming Events",
+      "layout": "twoColumn"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 10.0,
+      "height": 0.5,
+      "items": [
+        {
+          "category": 29,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1100x1292/7beb8a56f7db49bc0e147ec5040deb50/travel2.jpg",
+          "padding": 20.0
+        },
+        {
+          "category": 37,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1100x1292/19369c86e6873fc2493da1e397fa6e27/travel3.jpg",
+          "padding": 20.0
+        },
+        {
+          "category": 34,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1160x1362/4a1f8758322c3f5dc862c5bf7a9c5af3/travel5.jpg",
+          "padding": 20.0
+        }
+      ]
+    }
+  ],
+  "VerticalLayout": {
+    "name": "Explore more",
+    "layout": "menu"
+  },
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    { 
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

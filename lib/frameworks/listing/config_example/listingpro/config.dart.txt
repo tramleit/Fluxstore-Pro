@@ -1,0 +1,13 @@
+
+const serverConfig = {
+  'type': 'listpro',
+  'url': 'https://listingpro.inspireui.com',
+  'blog': 'https://listingpro.inspireui.com',
+  'consumerKey': '',
+  'consumerSecret': '',
+
+  /// remove to use as native screen
+  'forgetPassword':
+      'http://listingpro.inspireui.com/wp-login.php?action=lostpassword',
+     'addListingUrl': 'https://listingpro.inspireui.com/add-listing'
+};

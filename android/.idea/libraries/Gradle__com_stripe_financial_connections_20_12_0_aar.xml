@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:financial-connections:20.12.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4271a9c2bd1f6f62044f0a89ffec5644/transformed/jetified-financial-connections-20.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4271a9c2bd1f6f62044f0a89ffec5644/transformed/jetified-financial-connections-20.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4271a9c2bd1f6f62044f0a89ffec5644/transformed/jetified-financial-connections-20.12.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/financial-connections/20.12.0/8637710d907e4cba15435c367bc3e91a1e6df224/financial-connections-20.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

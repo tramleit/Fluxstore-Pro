@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:truth:1.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/597b1b6d48e6b09e2eb04f8bb8fb5e0e/transformed/jetified-truth-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/597b1b6d48e6b09e2eb04f8bb8fb5e0e/transformed/jetified-truth-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/597b1b6d48e6b09e2eb04f8bb8fb5e0e/transformed/jetified-truth-1.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/truth/1.3.0/4f39259d8f44b58e8857ea89a7cfded599f74781/truth-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/truth/1.3.0/995280c02fff0b84764ffaccf2496ce57bd48ad9/truth-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

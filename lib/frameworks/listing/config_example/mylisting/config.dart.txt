@@ -1,0 +1,14 @@
+
+const serverConfig = {
+  'type': 'mylisting',
+  'url': 'http://mylisting.inspireui.com',
+  'blog': 'http://mylisting.inspireui.com',
+  'consumerKey': 'ck_0e7d6d841d5d0c952e92d827abb529674f25f8f5',
+  'consumerSecret': 'cs_7811cbea91c2ff24999627fc1d61a1371d6a918f',
+   /// remove to use as native screen
+  'forgetPassword':
+      'http://mylisting.inspireui.com/wp-login.php?action=lostpassword',
+   'addListingUrl': 'http://mylisting.inspireui.com/add-listing'
+};
+
+

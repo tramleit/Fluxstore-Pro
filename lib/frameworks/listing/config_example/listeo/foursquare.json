@@ -1,0 +1,95 @@
+{
+  "Background": {
+    "scroll": true,
+    "height": 0.45,
+    "image": "assets/images/categories/fourquare.jpg"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "center": true,
+      "fontSize": 23.0,
+      "height": 0.4,
+      "title": "",
+      "type": "static"
+    },
+    {
+      "layout": "header_search",
+      "radius": 6.0,
+      "text": "Search for a product",
+      "blur": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "size": 1.4,
+      "radius": 50.0,
+      "columns": 3,
+      "padding": 30.0,
+      "line": true,
+      "items": [
+        {
+          "category": 29,
+          "image": "assets/icons/categories/ls_build.png"
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/categories/ls_eat.png"
+        },
+        {
+          "category": 34,
+          "image": "assets/icons/categories/ls_event.png"
+        },
+        {
+          "category": 37,
+          "image": "assets/icons/categories/ls_fitness.png"
+        },
+        {
+          "category": 35,
+          "image": "assets/icons/categories/ls_other.png"
+        },
+        {
+          "category": 33,
+          "image": "assets/icons/categories/ls_service.png"
+        }
+      ]
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

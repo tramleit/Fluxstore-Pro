@@ -1,0 +1,1616 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.0.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "animated_text_kit",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/animated_text_kit-4.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "asn1lib",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/asn1lib-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "awesome_card",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/awesome_card-1.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "cached_network_image",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image-3.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_web-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "carousel_slider",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/carousel_slider-4.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charts_common",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/charts_common-0.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charts_flutter_new",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/charts_flutter_new-0.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "chewie",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/chewie-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cloud_firestore",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore-4.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-5.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_web-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "country_code_picker",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/CountryCodePicker-0d3978023a94415ab1339de445f15c737adec9b1/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "country_pickers",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/country_pickers-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cross_file",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cross_file-0.3.3+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/csslib-0.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dbus",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/dbus-0.7.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "devicelocale",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/devicelocale-0.5.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dio",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/dio-4.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dotted_decoration",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/dotted_decoration-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dropdown_search",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/dropdown_search-5.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "easy_debounce",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/easy_debounce-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "encrypt",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/encrypt-5.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "event_bus",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/event_bus-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "eventify",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/eventify-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "extended_image",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/extended_image-6.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "extended_image_library",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/extended_image_library-3.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "facebook_auth_desktop",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/facebook_auth_desktop-0.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "file_picker",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/file_picker-5.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "firebase_analytics",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics-10.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_analytics_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics_platform_interface-3.3.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_analytics_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics_web-0.5.1+8",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-4.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-6.11.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_web-5.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_platform_interface-4.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_web-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_dynamic_links",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_dynamic_links-5.0.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_dynamic_links_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_dynamic_links_platform_interface-0.2.3+26",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_messaging",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging-14.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_messaging_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_platform_interface-4.2.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_messaging_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_web-3.2.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_remote_config",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_remote_config-3.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_remote_config_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_remote_config_platform_interface-1.1.29",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_remote_config_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_remote_config_web-1.1.18",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "flare_flutter",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/Flare-Flutter-fd4bcba22aae4c028286e453deeb78f3311e689a/flare_flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flash",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flash-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///C:/src/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_blurhash",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_blurhash-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "flutter_cache_manager",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_cache_manager-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_calendar_carousel",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_calendar_carousel-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_facebook_auth",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_facebook_auth-5.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "flutter_facebook_auth_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_facebook_auth_platform_interface-4.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_facebook_auth_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_facebook_auth_web-4.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_inappwebview",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "flutter_linkify",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_linkify-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_local_notifications",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_local_notifications-13.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "flutter_local_notifications_linux",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_local_notifications_linux-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_local_notifications_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_local_notifications_platform_interface-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_localizations",
+      "rootUri": "file:///C:/src/flutter/packages/flutter_localizations",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_native_image",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_native_image-0.0.6+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_native_splash",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_native_splash-2.2.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_paystack",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_rating_bar",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_rating_bar-4.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "flutter_secure_storage",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_secure_storage-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_secure_storage_linux",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_secure_storage_linux-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_secure_storage_macos",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_secure_storage_macos-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_secure_storage_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_secure_storage_platform_interface-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_secure_storage_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_secure_storage_web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_secure_storage_windows",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_secure_storage_windows-1.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_spinkit",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_spinkit-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_staggered_grid_view",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_staggered_grid_view-0.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_swiper_null_safety",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/flutter_swiper_null_safety-18e8d2d642ff9e0013fc4477c6d64c52732b463a/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///C:/src/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/src/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_widget_from_html_core",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_widget_from_html_core-0.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "flutter_zoom_drawer",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_zoom_drawer-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fluttertoast",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fluttertoast-8.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutterwave_standard",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/Flutterwave-dd7da29b031fa5a9166b58ffc090eb0a69333b96/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fwfh_cached_network_image",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_cached_network_image-0.7.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "fwfh_chewie",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_chewie-0.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "fwfh_svg",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_svg-0.7.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "fwfh_text_style",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_text_style-2.22.08+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fwfh_url_launcher",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_url_launcher-0.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "fwfh_webview",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_webview-0.6.2+5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "geocode",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/geocode-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/get_it-7.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "gms_check",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/gms_check-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_fonts",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_maps_flutter",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_maps_flutter-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_maps_flutter_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_maps_flutter_android-2.4.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_maps_flutter_ios",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_maps_flutter_ios-2.1.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_maps_flutter_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_maps_flutter_platform_interface-2.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_mobile_ads",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_mobile_ads-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_sign_in",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in-5.4.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_sign_in_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_android-6.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_sign_in_ios",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_ios-5.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_sign_in_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_platform_interface-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_sign_in_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_web-0.10.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "hive",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/hive-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "hive_flutter",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/hive_flutter-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "html_unescape",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/html_unescape-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_auth",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/http_auth-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http_client_helper",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/http_client_helper-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/image-4.0.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker-0.8.6+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "image_picker_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_android-0.8.5+5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "image_picker_for_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_for_web-2.1.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image_picker_ios",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_ios-0.8.6+6",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_platform_interface-2.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "infinite_carousel",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/infinite_carousel-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "inspireui",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/inspireui-1.3.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl_phone_number_input",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/intl_phone_number_input-d0d359cfabaf3dbefba762cb4d9db3f66ea83f4a/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intro_slider",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/intro_slider-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "jumping_dot",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/jumping_dot-0.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "libphonenumber_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/libphonenumber_platform_interface-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "libphonenumber_plugin",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/libphonenumber_plugin-0.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "libphonenumber_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/libphonenumber_web-0.2.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "linkify",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/linkify-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "location",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/location-4.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "location_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/location_platform_interface-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "location_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/location_web-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "logger",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/logger-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "lottie",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/lottie-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/mime-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "modal_bottom_sheet",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/modal_bottom_sheet-42da8b016ca254c1a4fa01be2edbef2cadd71bd2/modal_bottom_sheet",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "new_version_plus",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/new_version_plus-0.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "notification_permissions",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/notification_permissions-0.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "octo_image",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/octo_image-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "onesignal_flutter",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/onesignal_flutter-3.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus-1.4.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus_linux",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_linux-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus_macos",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_macos-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_platform_interface-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_web-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus_windows",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_windows-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_drawing",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_drawing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.0.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.22",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "paytm_allinonesdk",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/paytm_allinonesdk-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "permission_handler",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler-10.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_android-10.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_apple",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_apple-9.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_platform_interface-3.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "permission_handler_windows",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_windows-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "photo_manager",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/photo_manager-2.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "pin_code_fields",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/pin_code_fields-7.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pin_input_text_field",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/pin_input_text_field-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/process-4.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pull_to_refresh",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/flutter_pulltorefresh-6d7fbdd5b3cde242a474d66da312aac4aa892b9b/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "qr_code_scanner",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/quiver-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "random_string",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/random_string-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rate_my_app",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/rate_my_app-1.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "razorpay_flutter",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/razorpay_flutter-1.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "responsive_builder",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/responsive_builder-0.5.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rive",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/rive-0.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rive_common",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/rive_common-0.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "share",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/share-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences-2.0.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "shared_preferences_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "shared_preferences_foundation",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_foundation-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_linux-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_platform_interface-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_web-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_windows-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///C:/src/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "smooth_page_indicator",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/smooth_page_indicator-1.0.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sms_autofill",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/sms_autofill-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.2.4+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common-2.4.2+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sticky_headers",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/sticky_headers-0.3.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/stream_transform-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.4.18",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "the_apple_sign_in",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/the_apple_sign_in-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "timeago",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/timeago-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "timezone",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/timezone-0.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "transparent_image",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/transparent_image-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tuple",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/tuple-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "universal_io",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/universal_io-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "universal_platform",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/universal_platform-1.0.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "url_launcher_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.23",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "url_launcher_ios",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.0.18",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_platform_interface-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_web-2.0.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "video_player",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "video_player_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_android-2.3.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "video_player_avfoundation",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_avfoundation-2.3.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "video_player_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_platform_interface-6.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "video_player_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_web-2.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "visibility_detector",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/visibility_detector-0.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_macos",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_macos-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_platform_interface-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_web-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_windows",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_windows-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "webview_flutter",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter-3.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "webview_flutter_android",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_android-2.10.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "webview_flutter_platform_interface",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_platform_interface-1.9.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "webview_flutter_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_web-0.1.0+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "webview_flutter_wkwebview",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "wechat_assets_picker",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/wechat_assets_picker-8.3.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/win32-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-0.2.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "youtube_player_iframe",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/git/youtube_player_flutter-14b2055ab38cb7b66297611908ceee1f4f53386f/packages/youtube_player_iframe",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "youtube_player_iframe_web",
+      "rootUri": "file:///C:/Users/Ilkin/AppData/Local/Pub/Cache/hosted/pub.dev/youtube_player_iframe_web-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fstore",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    }
+  ],
+  "generated": "2023-03-10T13:37:32.500345Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.0-151.0.dev"
+}

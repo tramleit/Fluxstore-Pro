@@ -1,0 +1,111 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "header_search",
+      "radius": 3.0,
+      "text": "Search for a product"
+    },
+
+    {
+      "layout": "header_text",
+      "fontSize": 20.0,
+      "padding": 20.0,
+      "height": 0.1,
+      "title": "What can we help you find?"
+    },
+
+    {
+      "layout": "category",
+      "type": "image",
+      "size": 1.0,
+      "wrap": false,
+      "radius": 50.0,
+      "items": [
+        {
+          "category": 14,
+          "showText": true,
+          "name": "Automotive",
+          "image": "https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x931/542ebcc3cc043f9f4a444316b00a778b/travel10.jpg"
+        },
+        {
+          "category": 27,
+          "showText": true,
+          "name": "Real Estate",
+          "image": "https://trello-attachments.s3.amazonaws.com/5f819c1647913f104387c46c/1200x800/d75e43203335e45a506184f22f5148d6/travel13.jpg"
+        },
+        {
+          "category": 29,
+          "showText": true,
+          "name": "Restaurant",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/527bee78112c0b826038bbb587ae3a98/travel30.jpg"
+        },
+        {
+          "category": 23,
+          "showText": true,
+          "name": "Sales",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        },
+        {
+          "category": 31,
+          "showText": true,
+          "name": "Services",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        },
+        {
+          "category": 32,
+          "showText": true,
+          "name": "Shopping",
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5f819c1647913f104387c46c/a3ccbe5c3a78161975181f87e836d279/travel39.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Most Visited Places",
+      "layout": "twoColumn",
+      "category": 27
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

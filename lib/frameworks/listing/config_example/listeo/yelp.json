@@ -1,0 +1,136 @@
+{
+  "Background": {
+    "scroll": true,
+    "height": 0.35,
+    "image": "https://www.collegeatlas.org/wp-content/uploads/2014/06/Top-Party-Schools-main-image.jpg"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "hideLogo": true
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 23.0,
+      "height": 0.20,
+      "padding": 30.0,
+      "title": "",
+      "type": "static"
+    },
+    {
+      "layout": "header_search",
+      "radius": 6.0,
+      "text": "Search for a product"
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "size": 1.2,
+      "radius": 50.0,
+      "columns": 3,
+      "wrap": false,
+      "padding": 5.0,
+      "items": [
+        {
+          "category": 29,
+          "image": "assets/icons/categories/cate1.png",
+          "colors": [
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/categories/cate2.png",
+          "colors": [
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 34,
+          "image": "assets/icons/categories/cate3.png",
+          "colors": [
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 37,
+          "image": "assets/icons/categories/cate4.png",
+          "colors": [
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 35,
+          "image": "assets/icons/categories/cate5.png",
+          "colors": [
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 33,
+          "image": "assets/icons/categories/cate6.png",
+          "colors": [
+            "#5f27cd"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Most Visited Places",
+      "layout": "threeColumn",
+      "category": 29
+    },
+    {
+      "name": "Eat and Drink",
+      "layout": "threeColumn",
+      "category": 19
+    },
+    {
+      "name": "Services",
+      "layout": "threeColumn",
+      "category": 33
+    },
+    {
+      "name": "Event",
+      "layout": "threeColumn",
+      "category": 34
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}
